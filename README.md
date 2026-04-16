@@ -218,6 +218,16 @@ Total Applications = COUNTROWS(Loan)
 
 This dashboard has also been published to **Power BI Service** for cloud-based reporting and online dashboard sharing.
 
+
+Live Dashboard Power BI Service Link : https://app.powerbi.com/groups/63261f52-b92b-403b-8f1b-e6e83a0b85c4/reports/7b49efa1-022b-4d6b-a32c-6f09d95a63ba/8a96339dd36393cc42cc?experience=power-bi&clientSideAuth=0
+
+---
+---
+
+## Screenshots
+![loan-default-risk-analytics-dashboard](screenshots)
+
+
 ---
 
 ## Repository Structure
@@ -239,10 +249,15 @@ loan-default-risk-analytics-dashboard/
 ├── documentation/
 │   └── Loan_Project_Documentation.docx
 │
-├── Loan_Project.pbix
+├── loan-default-risk-analytics-dashboard.pbix
 │
 └── README.md
+│
+└──License
 ```
+
+
+
 
 ---
 
