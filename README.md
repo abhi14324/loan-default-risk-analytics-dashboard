@@ -23,6 +23,26 @@ The project combines:
 
 ---
 
+## ❓ Problem Statement
+
+Financial institutions face significant losses every year due to loan defaults. Identifying high-risk applicants before loan approval is one of the most critical challenges for banks and lending companies.
+Without proper data analysis, lenders struggle to:
+
+Detect which applicant profiles carry the highest default risk
+Understand how factors like credit score, income, employment type, and age influence default behavior
+Track how default trends change year over year to take proactive action
+
+This project analyzes historical loan applicant data to build a comprehensive risk analytics dashboard that helps financial decision-makers:
+
+Identify high-risk borrower segments across employment, income, credit score, education, and age dimensions
+Monitor default rate trends from 2013 to 2018 to support early intervention
+Reduce loan default rates through data-driven lending strategies
+
+
+💡 The ultimate goal is to give risk analysts and bank managers a clear, visual tool to make smarter, faster, and safer lending decisions.
+
+---
+
 ## 🎯 Project Objectives
 
 This project answers key business questions such as:
@@ -298,8 +318,6 @@ The dashboard has been published to Power BI Service for cloud access.
 
 **View Live Dashboard:** [Click here to open in Power BI Service](https://app.powerbi.com/groups/63261f52-b92b-403b-8f1b-e6e83a0b85c4/reports/7b49efa1-022b-4d6b-a32c-6f09d95a63ba/8a96339dd36393cc42cc?experience=power-bi)
 
-> ⚠️ To generate a safe public link: Power BI Service → File → Embed Report → Publish to web (public) → Copy the iframe/link
-
 Power BI Service enables:
 - 🌐 Online dashboard access from any device
 - 🔗 Easy report sharing with stakeholders
@@ -324,7 +342,7 @@ Power BI Service enables:
 
 ## 👤 Author
 
-**Abhi**
+**Abhiahek Kumar**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abhishek-kumar-a53b46309)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abhi14324)
